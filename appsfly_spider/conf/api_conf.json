@@ -1,0 +1,52 @@
+{
+  "af_retention_conf": [
+    {
+      "app_name": "yogrt_android",
+      "af_app_id": "com.akasanet.yogrt.android",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    },
+    {
+      "app_name": "yogrt_ios",
+      "af_app_id": "id950197859",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    },
+    {
+      "app_name": "topbuzz_android",
+      "af_app_id": "com.ss.android.article.topbuzzvideo",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    }
+  ]
+}

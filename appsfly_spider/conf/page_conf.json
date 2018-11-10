@@ -1,0 +1,11 @@
+{
+  "loginURL": "https://hq1.appsflyer.com/auth/login",
+  "elementUsername": "username",
+  "elementPassword": "password",
+  "usernameValue": "lidongheng@eliads.com",
+  "passwordValue": "EA2wsx#EDC",
+  "buttonDivClassname": "form-buttons",
+  "buttonTagName": "button",
+  "accountNameId": "section-element-account",
+  "accountNameAttribute": "title"
+}

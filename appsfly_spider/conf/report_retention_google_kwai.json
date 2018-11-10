@@ -1,0 +1,20 @@
+{
+  "af_retention_conf": [
+    {
+      "app_name": "kwai_id_android",
+      "af_app_id": "com.kwai.mercury",
+      "start_date":"2017-08-01",
+      "end_date":"2017-08-29",
+      "groups":[
+        "media_source",
+        "campaign",
+        "install_period"
+      ],
+      "filters":{
+        "media_source": ["googleadwords_int"]
+      },
+      "granularity": "daily",
+      "min_install": 1
+    }
+  ]
+}

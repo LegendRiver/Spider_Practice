@@ -1,0 +1,52 @@
+{
+  "backup":[
+    {
+      "app_name": "kwai_android",
+      "af_app_id": "com.smile.gifmaker",
+      "start_date":"2017-05-10",
+      "end_date":"2017-05-12",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    },
+    {
+      "app_name": "yeecall_android",
+      "af_app_id": "com.yeecall.app",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    },
+    {
+      "app_name": "yeecall_ios",
+      "af_app_id": "id852211576",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    }
+  ]
+}

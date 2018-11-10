@@ -1,0 +1,52 @@
+{
+  "af_retention_conf": [
+    {
+      "app_name": "kwai_android",
+      "af_app_id": "com.smile.gifmaker",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    },
+    {
+      "app_name": "kwai_id_android",
+      "af_app_id": "com.kwai.mercury",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    },
+    {
+      "app_name": "kwai_ios",
+      "af_app_id": "id440948110",
+      "start_date":"",
+      "end_date":"",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    }
+  ]
+}

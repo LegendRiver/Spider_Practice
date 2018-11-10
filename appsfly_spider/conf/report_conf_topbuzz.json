@@ -1,0 +1,20 @@
+{
+  "af_retention_conf": [
+    {
+      "app_name": "topbuzz_android",
+      "af_app_id": "com.ss.android.article.topbuzzvideo",
+      "start_date":"2017-08-01",
+      "end_date":"2017-09-02",
+      "groups":[
+        "media_source",
+        "country",
+        "install_period"
+      ],
+      "filters":{
+
+      },
+      "granularity": "daily",
+      "min_install": 1
+    }
+  ]
+}

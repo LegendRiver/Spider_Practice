@@ -1,0 +1,21 @@
+{
+  "af_install_conf": [
+    {
+      "app_name": "uc_browser",
+      "af_app_id": "com.UCMobile.intl",
+      "start_date":"2017-08-01",
+      "end_date":"2017-08-14",
+      "groups":[
+        "campaign"
+      ],
+      "filters":{
+        "media_source": ["googleadwords_int"]
+      },
+      "topics":[
+        "installs",
+        "sessions",
+        "loyals"
+      ]
+    }
+  ]
+}
